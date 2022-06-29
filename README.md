@@ -4,3 +4,5 @@ Employee turnover is one of the most signiﬁcant problems an organization canen
 As a result, it is imperative that organizationsformulate proper recruitment, acquisition and retention strategies and implementeffective mechanisms to prevent and diminish employee turnover, while understandingits underlying, root causes.
 
 Method : Decision Tree
+
+Dataset :https://github.com/viehgroup/dataset/blob/main/Employee%20Turnover.csv
